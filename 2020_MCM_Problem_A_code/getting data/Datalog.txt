@@ -1,0 +1,242 @@
+Getting data from "https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0_monthly.csv?analysed_sst". From year 2005 to 2018. 
+beginning month: 1
+longitute range from 290 to 360.
+latitude range from -10 to 70.
+ Time begin: 2020-02-15 08:29:51.143707
+
+
+
+
+now process:61.76%. Time using 0:00:00.015621. Getting data from year 2005, month 1.
+now process:62.01%. Time using 0:00:24.307073. Getting data from year 2005, month 2.
+now process:62.25%. Time using 0:00:52.367450. Getting data from year 2005, month 3.
+now process:62.50%. Time using 0:01:24.547427. Getting data from year 2005, month 4.
+now process:62.75%. Time using 0:01:40.809201. Getting data from year 2005, month 5.
+now process:62.99%. Time using 0:02:05.959464. Getting data from year 2005, month 6.
+now process:63.24%. Time using 0:02:29.435003. Getting data from year 2005, month 7.
+now process:63.48%. Time using 0:02:46.759238. Getting data from year 2005, month 8.
+now process:63.73%. Time using 0:03:15.861777. Getting data from year 2005, month 9.
+now process:63.97%. Time using 0:03:35.365802. Getting data from year 2005, month 10.
+now process:64.22%. Time using 0:04:19.167899. Getting data from year 2005, month 11.
+now process:64.46%. Time using 0:04:37.413751. Getting data from year 2005, month 12.
+now process:64.71%. Time using 0:05:08.500117. Getting data from year 2006, month 1.
+now process:64.95%. Time using 0:05:28.260805. Getting data from year 2006, month 2.
+now process:65.20%. Time using 0:06:12.531922. Getting data from year 2006, month 3.
+now process:65.44%. Time using 0:06:39.838183. Getting data from year 2006, month 4.
+now process:65.69%. Time using 0:07:20.207338. Getting data from year 2006, month 5.
+now process:65.93%. Time using 0:07:43.283012. Getting data from year 2006, month 6.
+now process:66.18%. Time using 0:08:09.526864. Getting data from year 2006, month 7.
+now process:66.42%. Time using 0:08:32.693796. Getting data from year 2006, month 8.
+now process:66.67%. Time using 0:09:07.279291. Getting data from year 2006, month 9.
+now process:66.91%. Time using 0:09:27.915199. Getting data from year 2006, month 10.
+now process:67.16%. Time using 0:09:59.298484. Getting data from year 2006, month 11.
+now process:67.40%. Time using 0:10:54.894825. Getting data from year 2006, month 12.
+now process:67.65%. Time using 0:11:27.770267. Getting data from year 2007, month 1.
+now process:67.89%. Time using 0:11:46.304702. Getting data from year 2007, month 2.
+now process:68.14%. Time using 0:12:25.342452. Getting data from year 2007, month 3.
+now process:68.38%. Time using 0:12:57.724995. Getting data from year 2007, month 4.
+now process:68.63%. Time using 0:13:37.809349. Getting data from year 2007, month 5.
+Getting data from "https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0_monthly.csv?analysed_sst". From year 2007 to 2018. 
+beginning month: 5
+longitute range from 290 to 360.
+latitude range from -10 to 70.
+ Time begin: 2020-02-15 08:46:50.812020
+
+
+
+
+now process:68.63%. Time using 0:00:00. Getting data from year 2007, month 5.
+now process:68.87%. Time using 0:01:01.722298. Getting data from year 2007, month 6.
+now process:69.12%. Time using 0:02:00.889130. Getting data from year 2007, month 7.
+now process:69.36%. Time using 0:02:41.527879. Getting data from year 2007, month 8.
+now process:69.61%. Time using 0:03:11.527067. Getting data from year 2007, month 9.
+now process:69.85%. Time using 0:03:32.824389. Getting data from year 2007, month 10.
+now process:70.10%. Time using 0:03:56.568831. Getting data from year 2007, month 11.
+now process:70.34%. Time using 0:04:32.982188. Getting data from year 2007, month 12.
+now process:70.59%. Time using 0:04:54.242828. Getting data from year 2008, month 1.
+now process:70.83%. Time using 0:05:31.749654. Getting data from year 2008, month 2.
+Getting data from "https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0_monthly.csv?analysed_sst". From year 2008 to 2018. 
+beginning month: 2
+longitute range from 290 to 360.
+latitude range from -10 to 70.
+ Time begin: 2020-02-15 08:53:20.881267
+
+
+
+
+now process:70.83%. Time using 0:00:00.015585. Getting data from year 2008, month 2.
+now process:71.08%. Time using 0:00:37.491550. Getting data from year 2008, month 3.
+now process:71.32%. Time using 0:00:59.066341. Getting data from year 2008, month 4.
+now process:71.57%. Time using 0:01:42.212243. Getting data from year 2008, month 5.
+now process:71.81%. Time using 0:02:30.078552. Getting data from year 2008, month 6.
+now process:72.06%. Time using 0:02:51.844706. Getting data from year 2008, month 7.
+now process:72.30%. Time using 0:03:38.063833. Getting data from year 2008, month 8.
+now process:72.55%. Time using 0:04:09.878860. Getting data from year 2008, month 9.
+now process:72.79%. Time using 0:04:47.838151. Getting data from year 2008, month 10.
+now process:73.04%. Time using 0:05:16.675631. Getting data from year 2008, month 11.
+now process:73.28%. Time using 0:05:36.170609. Getting data from year 2008, month 12.
+now process:73.53%. Time using 0:06:06.273386. Getting data from year 2009, month 1.
+now process:73.77%. Time using 0:06:41.062070. Getting data from year 2009, month 2.
+now process:74.02%. Time using 0:07:08.789963. Getting data from year 2009, month 3.
+now process:74.26%. Time using 0:07:45.671926. Getting data from year 2009, month 4.
+now process:74.51%. Time using 0:08:17.305164. Getting data from year 2009, month 5.
+now process:74.75%. Time using 0:08:52.234457. Getting data from year 2009, month 6.
+now process:75.00%. Time using 0:09:34.255867. Getting data from year 2009, month 7.
+now process:75.25%. Time using 0:10:11.356551. Getting data from year 2009, month 8.
+now process:75.49%. Time using 0:10:54.690045. Getting data from year 2009, month 9.
+now process:75.74%. Time using 0:11:07.936558. Getting data from year 2009, month 10.
+now process:75.98%. Time using 0:11:32.758904. Getting data from year 2009, month 11.
+now process:76.23%. Time using 0:11:46.224828. Getting data from year 2009, month 12.
+now process:76.47%. Time using 0:12:20.810598. Getting data from year 2010, month 1.
+now process:76.72%. Time using 0:12:48.991381. Getting data from year 2010, month 2.
+now process:76.96%. Time using 0:13:17.971231. Getting data from year 2010, month 3.
+now process:77.21%. Time using 0:13:44.183370. Getting data from year 2010, month 4.
+now process:77.45%. Time using 0:14:02.710295. Getting data from year 2010, month 5.
+now process:77.70%. Time using 0:14:30.885109. Getting data from year 2010, month 6.
+now process:77.94%. Time using 0:15:03.326480. Getting data from year 2010, month 7.
+now process:78.19%. Time using 0:15:26.726141. Getting data from year 2010, month 8.
+now process:78.43%. Time using 0:15:51.907667. Getting data from year 2010, month 9.
+now process:78.68%. Time using 0:16:13.240962. Getting data from year 2010, month 10.
+now process:78.92%. Time using 0:16:38.557426. Getting data from year 2010, month 11.
+now process:79.17%. Time using 0:17:11.796201. Getting data from year 2010, month 12.
+now process:79.41%. Time using 0:17:35.273597. Getting data from year 2011, month 1.
+now process:79.66%. Time using 0:17:52.696994. Getting data from year 2011, month 2.
+now process:79.90%. Time using 0:18:11.424068. Getting data from year 2011, month 3.
+now process:80.15%. Time using 0:18:38.613618. Getting data from year 2011, month 4.
+now process:80.39%. Time using 0:19:07.116172. Getting data from year 2011, month 5.
+now process:80.64%. Time using 0:19:39.556620. Getting data from year 2011, month 6.
+now process:80.88%. Time using 0:19:55.102124. Getting data from year 2011, month 7.
+now process:81.13%. Time using 0:20:20.852939. Getting data from year 2011, month 8.
+now process:81.37%. Time using 0:20:37.183755. Getting data from year 2011, month 9.
+now process:81.62%. Time using 0:20:59.262765. Getting data from year 2011, month 10.
+now process:81.86%. Time using 0:21:20.525861. Getting data from year 2011, month 11.
+now process:82.11%. Time using 0:21:52.030265. Getting data from year 2011, month 12.
+now process:82.35%. Time using 0:22:14.102067. Getting data from year 2012, month 1.
+now process:82.60%. Time using 0:22:39.149948. Getting data from year 2012, month 2.
+now process:82.84%. Time using 0:23:05.066195. Getting data from year 2012, month 3.
+now process:83.09%. Time using 0:23:38.183472. Getting data from year 2012, month 4.
+now process:83.33%. Time using 0:24:11.470639. Getting data from year 2012, month 5.
+now process:83.58%. Time using 0:24:34.498858. Getting data from year 2012, month 6.
+now process:83.82%. Time using 0:24:53.257147. Getting data from year 2012, month 7.
+now process:84.07%. Time using 0:25:24.655082. Getting data from year 2012, month 8.
+now process:84.31%. Time using 0:25:50.708298. Getting data from year 2012, month 9.
+now process:84.56%. Time using 0:26:21.186945. Getting data from year 2012, month 10.
+now process:84.80%. Time using 0:26:50.313641. Getting data from year 2012, month 11.
+now process:85.05%. Time using 0:27:26.263135. Getting data from year 2012, month 12.
+now process:85.29%. Time using 0:27:46.652616. Getting data from year 2013, month 1.
+now process:85.54%. Time using 0:28:04.385804. Getting data from year 2013, month 2.
+now process:85.78%. Time using 0:28:20.491628. Getting data from year 2013, month 3.
+now process:86.03%. Time using 0:28:43.453456. Getting data from year 2013, month 4.
+now process:86.27%. Time using 0:29:06.611428. Getting data from year 2013, month 5.
+now process:86.52%. Time using 0:29:20.771094. Getting data from year 2013, month 6.
+now process:86.76%. Time using 0:29:38.674314. Getting data from year 2013, month 7.
+now process:87.01%. Time using 0:29:56.263951. Getting data from year 2013, month 8.
+now process:87.25%. Time using 0:30:12.477603. Getting data from year 2013, month 9.
+now process:87.50%. Time using 0:30:42.186811. Getting data from year 2013, month 10.
+now process:87.75%. Time using 0:31:17.000159. Getting data from year 2013, month 11.
+now process:87.99%. Time using 0:31:36.557730. Getting data from year 2013, month 12.
+now process:88.24%. Time using 0:32:07.159298. Getting data from year 2014, month 1.
+now process:88.48%. Time using 0:32:21.341709. Getting data from year 2014, month 2.
+now process:88.73%. Time using 0:32:50.770661. Getting data from year 2014, month 3.
+now process:88.97%. Time using 0:33:14.930042. Getting data from year 2014, month 4.
+now process:89.22%. Time using 0:33:44.137169. Getting data from year 2014, month 5.
+now process:89.46%. Time using 0:34:05.410520. Getting data from year 2014, month 6.
+now process:89.71%. Time using 0:34:32.322196. Getting data from year 2014, month 7.
+now process:89.95%. Time using 0:34:47.508458. Getting data from year 2014, month 8.
+now process:90.20%. Time using 0:35:15.433625. Getting data from year 2014, month 9.
+now process:90.44%. Time using 0:35:47.352431. Getting data from year 2014, month 10.
+now process:90.69%. Time using 0:36:08.349475. Getting data from year 2014, month 11.
+now process:90.93%. Time using 0:36:52.826322. Getting data from year 2014, month 12.
+now process:91.18%. Time using 0:37:09.145437. Getting data from year 2015, month 1.
+now process:91.42%. Time using 0:37:23.649554. Getting data from year 2015, month 2.
+now process:91.67%. Time using 0:37:47.964118. Getting data from year 2015, month 3.
+now process:91.91%. Time using 0:38:16.340330. Getting data from year 2015, month 4.
+now process:92.16%. Time using 0:38:43.230499. Getting data from year 2015, month 5.
+now process:92.40%. Time using 0:39:13.594076. Getting data from year 2015, month 6.
+now process:92.65%. Time using 0:39:42.709951. Getting data from year 2015, month 7.
+now process:92.89%. Time using 0:40:14.055012. Getting data from year 2015, month 8.
+now process:93.14%. Time using 0:40:35.851188. Getting data from year 2015, month 9.
+now process:93.38%. Time using 0:41:01.876153. Getting data from year 2015, month 10.
+now process:93.63%. Time using 0:41:33.320251. Getting data from year 2015, month 11.
+now process:93.87%. Time using 0:41:51.758656. Getting data from year 2015, month 12.
+now process:94.12%. Time using 0:42:16.899752. Getting data from year 2016, month 1.
+now process:94.36%. Time using 0:42:47.812491. Getting data from year 2016, month 2.
+now process:94.61%. Time using 0:43:05.842790. Getting data from year 2016, month 3.
+now process:94.85%. Time using 0:43:38.156766. Getting data from year 2016, month 4.
+now process:95.10%. Time using 0:44:06.242822. Getting data from year 2016, month 5.
+now process:95.34%. Time using 0:44:26.315071. Getting data from year 2016, month 6.
+now process:95.59%. Time using 0:44:51.478934. Getting data from year 2016, month 7.
+now process:95.83%. Time using 0:45:16.719578. Getting data from year 2016, month 8.
+now process:96.08%. Time using 0:45:37.163428. Getting data from year 2016, month 9.
+now process:96.32%. Time using 0:45:57.154324. Getting data from year 2016, month 10.
+now process:96.57%. Time using 0:46:42.488093. Getting data from year 2016, month 11.
+now process:96.81%. Time using 0:47:18.066007. Getting data from year 2016, month 12.
+now process:97.06%. Time using 0:47:40.170514. Getting data from year 2017, month 1.
+now process:97.30%. Time using 0:48:10.475662. Getting data from year 2017, month 2.
+now process:97.55%. Time using 0:48:35.826198. Getting data from year 2017, month 3.
+now process:97.79%. Time using 0:49:08.689014. Getting data from year 2017, month 4.
+now process:98.04%. Time using 0:49:44.658887. Getting data from year 2017, month 5.
+now process:98.28%. Time using 0:50:02.562629. Getting data from year 2017, month 6.
+now process:98.53%. Time using 0:50:32.716990. Getting data from year 2017, month 7.
+now process:98.77%. Time using 0:50:58.982405. Getting data from year 2017, month 8.
+now process:99.02%. Time using 0:51:26.414750. Getting data from year 2017, month 9.
+now process:99.26%. Time using 0:51:47.510235. Getting data from year 2017, month 10.
+now process:99.51%. Time using 0:52:00.895950. Getting data from year 2017, month 11.
+now process:99.75%. Time using 0:52:19.458171. Getting data from year 2017, month 12.
+now process:100.00%. Time using 0:53:06.004126. Getting data from year 2018, month 1.
+now process:100.25%. Time using 0:53:36.112557. Getting data from year 2018, month 2.
+now process:100.49%. Time using 0:53:52.390840. Getting data from year 2018, month 3.
+now process:100.74%. Time using 0:54:07.768217. Getting data from year 2018, month 4.
+now process:100.98%. Time using 0:54:31.857465. Getting data from year 2018, month 5.
+now process:101.23%. Time using 0:54:49.028060. Getting data from year 2018, month 6.
+now process:101.47%. Time using 0:55:12.431540. Getting data from year 2018, month 7.
+now process:101.72%. Time using 0:55:33.569839. Getting data from year 2018, month 8.
+now process:101.96%. Time using 0:56:03.825773. Getting data from year 2018, month 9.
+now process:102.21%. Time using 0:56:25.280157. Getting data from year 2018, month 10.
+now process:102.45%. Time using 0:57:09.999792. Getting data from year 2018, month 11.
+now process:102.70%. Time using 0:57:31.842639. Getting data from year 2018, month 12.
+
+
+finished successfully. Time: 2020-02-15 09:51:41.203887. Time using:-1 day, 23:01:39.677380Getting data from "https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0_monthly.csv?analysed_sst". From year 2004 to 2004. 
+beginning month: 1
+longitute range from 0 to 30.
+latitude range from -10 to 70.
+ Time begin: 2020-02-15 14:05:52.158256
+
+
+
+
+now process:100.00%. Time using 0:00:00. Getting data from year 2004, month 1.
+Getting data from "https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0_monthly.csv?analysed_sst". From year 2004 to 2004. 
+beginning month: 1
+longitute range from 0 to 30.
+latitude range from -10 to 70.
+ Time begin: 2020-02-15 14:06:15.011229
+
+
+
+
+now process:0.00%. Time using 0:00:00. Getting data from year 2004, month 1.
+now process:8.33%. Time using 0:00:32.801687. Getting data from year 2004, month 2.
+now process:16.67%. Time using 0:00:59.107198. Getting data from year 2004, month 3.
+now process:25.00%. Time using 0:01:20.966223. Getting data from year 2004, month 4.
+now process:33.33%. Time using 0:02:08.340063. Getting data from year 2004, month 5.
+now process:41.67%. Time using 0:02:47.743802. Getting data from year 2004, month 6.
+now process:50.00%. Time using 0:03:19.427578. Getting data from year 2004, month 7.
+now process:58.33%. Time using 0:03:57.109243. Getting data from year 2004, month 8.
+now process:66.67%. Time using 0:04:26.506762. Getting data from year 2004, month 9.
+now process:75.00%. Time using 0:04:58.754349. Getting data from year 2004, month 10.
+now process:83.33%. Time using 0:05:23.574923. Getting data from year 2004, month 11.
+now process:91.67%. Time using 0:05:53.853885. Getting data from year 2004, month 12.
+
+
+finished successfully. Time: 2020-02-15 14:12:35.385944. Time using:-1 day, 23:53:39.625285Getting data from "https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0_monthly.csv?analysed_sst". From year 2004 to 2004. 
+beginning month: 1
+longitute range from 0 to 30.
+latitude range from -10 to 70.
+ Time begin: 2020-02-15 16:05:03.009903
+
+
+
+
+now process:0.00%. Time using 0:00:00.006505. Getting data from year 2004, month 1.
